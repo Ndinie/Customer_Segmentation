@@ -35,7 +35,9 @@ So let us see if you could achieve higher than my accuracy!
 ![Classification Report](https://github.com/Ndinie/Customer_Segmentation/blob/main/static/classification_report.png)
 
 
-![Confusion Matrix](https://github.com/Ndinie/Customer_Segmentation/blob/main/static/confusion_matrix.png)
+You can also check your training process via Tensorboard like this!
+
+![Tensorboard](https://github.com/Ndinie/Customer_Segmentation/blob/main/static/Training_process_tensorboard.png)
 
 Enjoy!
 
