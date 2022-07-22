@@ -1,5 +1,5 @@
 # Project Title
-Customer Segmentation Prediction
+Customer Segmentation Prediction on banking institution
 
 # Project Description
 Marketing campaigns are characterized by focusing on customer needs and their overall satisfaction. Nevertheless, there are different variables that determine whether a marketing campaign will be successful or not. Some important aspects of a marketing campaign are as follows:
