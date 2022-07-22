@@ -31,8 +31,9 @@ There is also module that you can look into it! It can be used for tuning during
 If you want to try it out yourself, makes sure you have the Train.csv uploaded! 
 
 So let us see if you could achieve higher than my accuracy!
+![Classification Report](https://github.com/Ndinie/Customer_Segmentation/blob/main/static/confusion_matrix.png)
 
-![alt text]()
+![Confusion Matrix](https://github.com/Ndinie/Customer_Segmentation/blob/main/static/confusion_matrix.png)
 
 Enjoy!
 
